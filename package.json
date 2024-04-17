@@ -1,0 +1,14 @@
+{
+  "name" : "com.puffersoftware.securesave",
+  "displayName" : "Puffer Software Secure Save Package",
+  "version" : "1.0.0",
+  "unity" : "2022.3",
+  "author" : "Puffer Software",
+  "description" : "This is an Secure Save Package for saving securely datas!",
+  "dependencies" : {},
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Puffer-Software/com.puffersoftware.securesave.git"
+  }
+
+}
